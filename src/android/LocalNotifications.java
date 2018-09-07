@@ -23,6 +23,7 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Random;
+import android.app.NotificationChannel;
 
 /**
 * This class exposes methods in Cordova that can be called from JavaScript.
